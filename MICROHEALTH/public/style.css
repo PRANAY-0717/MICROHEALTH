@@ -1,0 +1,14 @@
+
+.services
+{
+    text-align: center;
+}
+
+.services div 
+{
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+    border:10px solid black;
+    display: inline-block;
+}
